@@ -1,0 +1,22 @@
+{
+  "name": "rest_web_services",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baki6983/NodeJs_Basic_NetNinja_core.git"
+  },
+  "author": "Baki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/baki6983/NodeJs_Basic_NetNinja_core/issues"
+  },
+  "homepage": "https://github.com/baki6983/NodeJs_Basic_NetNinja_core#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}

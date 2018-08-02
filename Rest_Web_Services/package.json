@@ -17,6 +17,10 @@
   },
   "homepage": "https://github.com/baki6983/NodeJs_Basic_NetNinja_core#readme",
   "dependencies": {
-    "express": "^4.16.3"
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "gulp": "^3.9.1",
+    "gulp-nodemon": "^2.2.1",
+    "mongoose": "^5.2.6"
   }
 }
